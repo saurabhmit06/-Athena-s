@@ -1,6 +1,6 @@
 # -Athena-s
 
-to run Application 
+to run Application (./BillingSystem)
 
 npm install
 
